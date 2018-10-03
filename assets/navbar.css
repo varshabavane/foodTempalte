@@ -1,0 +1,372 @@
+#navbar{
+border-radius: 0px;
+background-color: white;
+height: 100px;
+border:none;
+box-shadow: 3px 3px 3px #dddddd!important;
+border-bottom:#dddddd;
+}
+#navbar ul li a{
+	padding-top: 40px;
+	color:black;
+	text-decoration-style: bold;
+}
+
+#carousel-inner{
+	margin-top: -20px;
+	 height: 500px;
+	  object-fit: cover;
+}
+img{
+width:100%;
+}
+#logo{ 
+margin-top: -7px;
+}
+
+#abt_section h1{
+margin-top:-5px;
+}
+#abt_section button{
+	border-radius: 0px;
+	background-color: #B03060;
+	color:white;
+	
+}
+#abt_section p{
+color:#777;
+text-align: justify;
+line-height: 25px;
+} 
+#services h1{
+	text-align: center;
+}
+#p p{
+text-align: center;
+line-height:25px;
+color:#777;
+}
+#ssection{
+	padding:60px;
+	background-color: #f9f9f9!important;
+}
+#services hr{
+	border: 2px dashed #f99400;
+	width:15%;
+}
+#thumbnail button{
+	align-content: center;
+}
+#caption p{
+	text-align: center;
+	text-decoration: none;
+	color:#777;
+}
+#sec{
+	padding-bottom: 60px;
+}
+#thumbnail{
+	padding: 15px;
+}
+/* carousel */
+.media-carousel 
+{
+  margin-bottom: 0;
+  padding: 0 40px 30px 40px;
+  margin-top: 30px;
+}
+/* Previous button  */
+.media-carousel .carousel-control.left 
+{
+  left: -30px;
+  background-image: none;
+  background: none repeat scroll 0 0 #f99400;
+  border: 4px solid #FFFFFF;
+  border-radius: 23px 23px 23px 23px;
+  height: 50px;
+  width : 50px;
+  margin-top: 180px
+}
+/* Next button  */
+.media-carousel .carousel-control.right 
+{
+  right: -30px !important;
+  background-image: none;
+  background: none repeat scroll 0 0 #f99400;
+  border: 4px solid #FFFFFF;
+  border-radius: 23px 23px 23px 23px;
+  height: 50px;
+  width : 50px;
+  margin-top: 180px
+}
+/* Changes the position of the indicators */
+.media-carousel .carousel-indicators 
+{
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the colour of the indicators */
+.media-carousel .carousel-indicators li 
+{
+  background: #c0c0c0;
+}
+.media-carousel .carousel-indicators .active 
+{
+  background: #333333;
+}
+.media-carousel img
+{
+
+}
+.text-center{
+	text-align: center;
+line-height:25px;
+color:#777;
+}
+#span{
+	color:#f99400;
+}
+#blog{
+	padding-top: 60px;
+	background-color: #e8e8e8!important;
+}
+#blog hr{
+	border: 2px dashed #f99400;
+	width:15%;
+}
+#service_content{
+	text-align: center;
+line-height:25px;
+color:#777;
+}
+/* End carousel */
+#logo1{
+	height: 100px;
+	width: 150px;
+}
+#foot{
+	background-color:orange;
+	padding: 	60px;
+	text-decoration-color: #dddddd;
+
+}
+#footer1{
+	float: left;
+	height: 300px;
+	width: 300px;
+	padding-left: 30px;
+	padding-top:  10px;
+
+}
+#footer2 h2{
+	padding-left: 	20px;
+}
+
+#footer2 li{
+	padding: 	10px;
+	padding-left: 	25px;
+	list-style: 	none;
+}
+#footer2 li a{
+	line-height:20px;
+	padding: 	30px;
+	padding-left: 30px;
+	color:white;	
+}
+
+#footer2{
+	float: left;
+	height: 300px;
+	width: 300px;
+
+
+}
+#footer2 h2{
+	padding-left:50px;
+}
+#footer3{
+	float: left;
+	height: 300px;
+	width: 300px;
+	padding-left: 	20px;
+
+}
+#footer3 h4{
+	padding:30px;
+	padding-left:10px;
+}
+
+#footer4 p{
+	padding: 	20px;
+	padding-left: 	6px;
+}
+
+#footer4{
+	float: right;
+	height: 300px;
+
+
+}
+
+/*#footer4 button{
+
+
+	padding:5px;
+}
+*/
+#footer4{
+	
+	float: right;
+	
+}
+
+#footer4 button{
+	float: 20px;
+}
+#footer_container{
+	color:white;
+}
+
+
+/* contact us */
+#contact h2{
+	padding:60px;
+
+}
+
+/*#contactUs{
+	height:300px;
+	width: 	100%;
+	padding:50px;
+	height:60px;
+	
+}*/
+#contact_title{
+	text-align:center;	
+	color:red;
+
+}
+#contactUs p{
+	float:left;
+	text-align: 	center;	
+	line-height:justify;
+	text-align: 	justify;	
+}
+
+/*#contact_form{
+	float: 	right;	
+	height: 	400px;
+	width:300px;
+	text-align: 	center;	
+
+}
+#contact_form input{
+	height: 	30px;
+}
+#contact_form button{
+	background-color: 	brown;
+	color: 	white;
+	height: 40px;	
+}*/
+
+#contact textarea{
+	height: 	100px;
+	width: 	100%;
+	resize: 	vertical;	
+	overflow-x: 	hidden;	
+	overflow-y: 	auto;	
+}
+
+#contact button{
+	background-color: brown;
+	color:white;
+
+}
+
+/* contact us end */
+
+/* login form page */
+#form{
+	background-color: #dddddd;
+	padding:40px;
+	box-shadow:5px 10px 8px grey;
+}
+#form p{
+	background-image: url(assets/imgs/f1.png);
+}
+
+#form button{
+	background-color: green;
+	color:white;
+
+}
+#form img{
+	height: 70px;
+	width: 70px;
+}
+#form .form1{
+	margin:15px 0px;
+	padding:20px;
+
+
+}
+
+/* end of login form page */
+
+/* services page*/
+#cateogary{
+	padding:50px;
+}
+#cateogary_title{
+	text-align: center;
+
+}
+#cateogary_pills{
+	float: left;
+}
+#tab{
+	padding: 40px;
+	background-color: #dddddd;
+	box-shadow:5px 10px 8px grey;
+
+}
+#tab ul li{
+	list-style: none;
+
+}
+#tab ul li a{
+	margin:5px;
+	color: black;
+	
+
+	line-height: 2px;
+    
+
+
+}
+/* services end */
+ 
+/* about page */
+#hello{
+	/*background-image: url(img/1.jpg);*/
+	height:300px;
+	width:40%;
+	float: left;
+	padding:10px;
+    line-height: 25px;
+    text-align:justify!important;
+
+}
+#about1{
+	margin-left: 25px;
+	float:right!important;
+	width: 50%;
+	height: 300px;
+	padding:10px;
+    line-height: 25px;
+    text-align:justify!important;
+}
+
+/* end of about page */

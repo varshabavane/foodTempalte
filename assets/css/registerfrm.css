@@ -1,0 +1,154 @@
+#navbar{
+	border-radius: 0px;
+	background-color: white;
+	height: 100px;
+	border:none;
+	box-shadow: 3px 3px 3px #dddddd!important;
+	border-bottom:#dddddd;
+}
+#navbar ul li a{
+	padding-top: 40px;
+	color:black;
+	text-decoration-style: bold;
+}
+#foot{
+	background-color:orange;
+	padding: 	60px;
+	text-decoration-color: #dddddd;
+
+}
+#footer1{
+	float: left;
+	height: 300px;
+	width: 300px;
+	padding-left: 30px;
+	padding-top:  10px;
+
+}
+#footer2 h2{
+	padding-left: 	20px;
+}
+
+#footer2 li{
+	padding: 	10px;
+	padding-left: 	25px;
+	list-style: 	none;
+}
+#footer2 li a{
+	line-height:20px;
+	padding: 	30px;
+	padding-left: 30px;
+	color:white;	
+}
+
+#footer2{
+	float: left;
+	height: 300px;
+	width: 300px;
+
+
+}
+#footer2 h2{
+	padding-left:50px;
+}
+#footer3{
+	float: left;
+	height: 300px;
+	width: 300px;
+	padding-left: 	20px;
+
+}
+#footer3 h4{
+	padding:30px;
+	padding-left:10px;
+}
+
+#footer4 p{
+	padding: 	20px;
+	padding-left: 	6px;
+}
+
+#footer4{
+	float: right;
+	height: 300px;
+
+
+}
+
+/*#footer4 button{
+
+
+
+
+
+
+	padding:5px;
+}
+*/
+#footer4{
+	
+	float: right;
+	
+}
+
+#footer4 button{
+	float: 20px;
+}
+#footer_container{
+	color:white;
+}
+
+#img{
+	background-image:url(assets/imgs/1.png);
+	height:700px;
+	width: 100%;
+	object-fit: cover;
+}
+#img button{
+
+	padding:5px;
+	background-color: tomato;
+
+}
+#img button:hover{
+	background-color: blue;
+}
+
+
+
+
+#info{
+	padding: 200px 250px 150px 250px;
+}
+#info h2{
+	color:red;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+	text-align:justify!important;
+}
+#info p{
+	text-align: justify;
+}
+
+#form{
+	background-color: #dddddd;
+	padding:20px;
+	box-shadow: 5px 10px 8px #888888;
+}
+#form p{
+	background-image: url(assets/imgs/f1.png);
+}
+
+#form button{
+	background-color: green;
+	color: white;
+
+}
+#form .form1{
+	margin:15px 0px;
+	padding:20px;
+
+
+}
